@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Caption Service">
+
+        <CheckBoxPreference
+            android:title="Start Caption Service"
+            android:summary="It will started automatically">
+        </CheckBoxPreference>
+
+    </PreferenceCategory>
+</PreferenceScreen>
